@@ -13,5 +13,5 @@
 4. **Configurar la cadena de conexión** en el archivo `appsettings.json`.
 5. **Restaurar dependencias** y compilar el proyecto.
 6. **Ejecutar el backend**
-  
-###Nota: Tuve que comprimir el proyecto porque eran demasiados archivos
+
+> **Nota:** Tuve que comprimir el proyecto porque eran demasiados archivos
