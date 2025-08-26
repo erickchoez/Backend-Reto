@@ -14,3 +14,4 @@
 5. **Restaurar dependencias** y compilar el proyecto.
 6. **Ejecutar el backend**
   
+###Nota: Tuve que comprimir el proyecto porque eran demasiados archivos
